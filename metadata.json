@@ -1,0 +1,8 @@
+{
+  "name": "Bel Sekolah Otomatis",
+  "description": "Program Bel Sekolah Otomatis dengan jadwal harian, nada bel bervariasi, suara pengumuman, dan pemutar audio seperti software bel sekolah desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
